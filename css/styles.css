@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Reem Kufi', sans-serif;
+  text-align: center;
+  background-image: url(../img/bg.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.input{
+ margin: 100px 0;
+}
+
+.inputValue {
+ font-family: 'Reem Kufi', sans-serif;
+  width: 250px;
+  height: 40px;
+  font-size: 18px;
+  background-color: #bde0ff;
+  border: none;
+  border-radius: 10px;
+  padding-left: 20px;
+}
+
+.submit{
+ font-family: 'Reem Kufi', sans-serif;
+ width: 100px;
+ height: 40px;
+ font-size: 18px;
+ background-color: #0789ad;
+ border: none;
+ border-radius: 10px;
+}
+
+p{
+ margin: 20px 0;
+}
+
+.city{
+ font-size: 28px;
+}
+
+.temp{
+ font-size: 40px;
+}
+
+
+
+
