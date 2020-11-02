@@ -1,4 +1,4 @@
-# Weather-App
+# Weather App
 
 A Simple Weather App made using HTML, CSS and JavaScript
 
